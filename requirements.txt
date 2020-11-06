@@ -3,3 +3,4 @@ numpy==1.19.4
 PyYAML==5.3.1
 scipy==1.5.4
 -e git://github.com/dkirkby/speclite.git#egg=speclite
+matplotlib==3.3.2
