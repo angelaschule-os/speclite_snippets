@@ -1,0 +1,5 @@
+astropy==4.1
+numpy==1.19.4
+PyYAML==5.3.1
+scipy==1.5.4
+speclite==0.10.dev547
